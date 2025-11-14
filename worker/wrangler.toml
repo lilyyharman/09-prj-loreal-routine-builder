@@ -1,0 +1,6 @@
+name = "loreal-routine-worker"
+main = "worker/worker.js"
+compatibility_date = "2025-11-10"
+# Fill in your Cloudflare account id before deploying
+account_id = "your-account-id"
+type = "javascript"
