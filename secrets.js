@@ -1,0 +1,1 @@
+const WORKER_URL = "https://new-loreal.harma2lj.workers.dev/";
